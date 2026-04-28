@@ -2,6 +2,7 @@
  
 | **Namespace**        |https://github.com/LlGC-NLW/nlw-namespace#            |
 | :------------- |:-------------|
+| **Prefix**     |nlw:  |
 | **Description**     |Namespace definitions for NLW  |
 | **Version**   | v2/2026/04/28   | 
 | **Prior version** | https://wiki.dev.llgc.org.uk/index.php?title=NLW_namespace      |
