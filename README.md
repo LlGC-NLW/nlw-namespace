@@ -8,8 +8,8 @@
 | **Prior version** | https://wiki.dev.llgc.org.uk/index.php?title=NLW_namespace      |
 
 ## Table of Contents
-* [Classes](https://github.com/LlGC-NLW/nlw-namespace/edit/main/README.md#classes)
-* [Properties](https://github.com/LlGC-NLW/nlw-namespace/edit/main/README.md#properties)
+* [Classes](https://github.com/LlGC-NLW/nlw-namespace#classes)
+* [Properties](https://github.com/LlGC-NLW/nlw-namespace#properties)
 
 ## Classes
 ### **three-level_3**
